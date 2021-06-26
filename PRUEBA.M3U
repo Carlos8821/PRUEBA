@@ -23,20 +23,23 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806=0&deviceDviceDviceD
 
 #EXTINF: -1, GOL TV
-https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=4yvuGW7wmgz9xjjJL0Ad-Q&e=1624747311
+https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9ek6azhuyc1AoHrh_q-WbQ&e=1624767083
 
 #EXTINF: -1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=YUA3u_v8JVMkSwpN8q2Lvw&e=1624746151
+https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=dgfUyM9ixeoNsG7piVa_AQ&e=1624766961
 
 #EXTINF: -1, STAR CHANNEL
-https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=1xv5CpAOj1QUm1PC8VuSYQ&e=1624746865
+https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=GhPxZMLPfe1JnlB_cZsjGg&e=1624767027
 
 
 #EXTINF: -1, TNT
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=1uqOBU8vKLHlot5WnIVmNg&e=1624746922
+https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=F6F7KhxzGWgjwcah4bHQqg&e=1624767228
 
 #EXTINF: -1, SPACE
-https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=9ER4fnHtPGfAZ911s5LHVA&e=1624747032
+https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=klMr_yrk6f5HYnVDQaHKhw&e=1624767343
 
 #EXTINF: -1, DIRECTV SPORTS
-https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=iMGNb9sKVg5N7mPHV4U3nA&e=1624747101
+https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=pg78drF2fineSDiOHEK1Xg&e=1624767271
+
+#EXTINF: -1, H&H
+https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=qWXRy_MiY20068q6luy3Vw&e=1624767172
