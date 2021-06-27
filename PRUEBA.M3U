@@ -1,7 +1,7 @@
 
 #EXTM3U
  
-#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2020/01/web.png", TELEAMAZONAS  | EC
+#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://www.monografias.com/trabajos82/caso-de-teleamazonas/image002.jpg, TELEAMAZONAS  | EC
 https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488#EXTINF: 0, Teleamazonas
 
 #EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://fontan.io/600x300/media/external-cdt1-1.xx.fbcdn.net/78a9d74c.jpg", TELEAMAZONAS  | EC
