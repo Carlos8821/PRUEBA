@@ -15,3 +15,25 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
 
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=bI47zVD35Xtz2pk0jlZwgA&e=1624937442
+
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", BOOMERANG
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", CARTOON NETWORK
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", DISCOVERY KIDS
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_41_3_.m3u8
+
+#EXTINF:-1 tvg-name="NICKS" , NICK
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_117_3_.m3u8
+
+#EXTINF:-1 tvg-name="STAR CINEMA" tvg-logo="https://i.ytimg.com/vi/vvWyl2LfqcA/maxresdefault.jpg", STAR CINEMA
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_62_3_.m3u8
+
+#EXTINF:-1 tvg-name="STAR SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/1200px-Star_Series_2021.png", STAR SERIE
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_69_3_.m3u8
+
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.rosario3.com/__export/1612475305565/sites/rosario3/img/2021/02/04/fox-stardfdf.jpg_1756841869.jpg", STAR CHANNEL
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_59_3_.m3u8
+
