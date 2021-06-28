@@ -1,80 +1,14 @@
 
- # EXTM3U
+# EXTM3U
  
-#EXTINF: -1 tvg-name = "TELEAMAZONAS" tvg-logo = "https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%v2BenAZ%" | CE
-https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488
+#EXTINF: -1 HBO
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_90_3_.m3u8
 
-#EXTINF: -1 tvg-name = "TELEAMAZONAS" tvg-logo = "https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", TELEAMAZONAS
-https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
+#EXTINF: -1 HBO 2
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_91_3_.m3u8
 
-#EXTINF: -1 tvg-name = "ECUAVISA", ECUAVISA
-https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
+#EXTINF: -1 HBO FAMILY
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_92_3_.m3u8
 
-#EXTINF: -1 tvg-name = "RTS", RTS
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzMDU3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjJjZDI5OTAwZDM4MWZlZjk1YzVjNDU2MWM3MDMyZjk4N2IyMTM0MjAifQ%3D%3D
-
-#EXTINF: -1 tvg-name = "TC" tvg-logo = "https://i.pinimg.com/originals/09/ed/8e/09ed8ed6be0255ed4281a245b6528209.jpg", TC | CE
-https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
-
-#EXTINF: -1 tvg-name = "TVC", TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzEzNDI3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImQ0ZGIwMzIwYzFmMTgzZjYyMzNmOTU3NWQ0YjQyNTg2OGU3YTg5ZGMifQ%3D%3D
-
-#EXTINF: -1, NOVELA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806=0&deviceDviceDviceD
-
-#EXTINF: -1 tvg-name = "GOL TV" tvg-logo = "https://forounivers.com/uploads/monthly_2018_04/large.golTVHD.jpg.50d7fc6e3612d9a3e442edd83019ee04.jpg", GOL TV
-https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9LTYzeq-3B12GuQ-c3c6DQ&e=1624648804
-
-#EXTINF: -1 tvg-name = "GOL PERU", GOL PERU
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/110_.m3u8
-
-#EXTINF: -1 tvg-name = "BOOMERANG" tvg-logo = "https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", BOOMERANG
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
-
-#EXTINF: -1 tvg-name = "RED DIBUJOS ANIMADOS" tvg-logo = "https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas ,%v2Ben%2" RED DE DIBUJOS ANIMADOS
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
-
- 
- 
-#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://www.monografias.com/trabajos82/caso-de-teleamazonas/image002.jpg, TELEAMAZONAS  | EC
-https://playback.akamaized.net/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media/1359588_4428723_lsitxwgnwg59hue92od_1@2756000p.m3u8?dw=14400&ts=1624626000&hdnts=exp=1624799549~acl=/streams/1359588_4428723_lsitxwgnwg59hue92od_1/media*~hmac=6204b53b63a57d5f1edcae8450e180cc3e15ff5328580fcd304675cac8d0c488#EXTINF: 0, Teleamazonas
-
-#EXTINF:-1 tvg-name="TELEAMAZONAS" tvg-logo="https://fontan.io/600x300/media/external-cdt1-1.xx.fbcdn.net/78a9d74c.jpg", TELEAMAZONAS  | EC
-https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
-
-#EXTINF: -1, ECUAVISA
-https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
-
-#EXTINF: -1, RTS
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0ODEwNTQ3LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjI2MzU1ZjNhNDViNWVmZGFiNTNhM2Y1NmNiMGM1YTBhMGJlYzhkMzUifQ%3D%3D
-
-#EXTINF: -1, TC
-https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
-
-#EXTINF: -1, TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0ODEwODAwLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6IjRjYmNjY2E1MjZjOGY3Yzg4Y2M0ZTM0ODEwNjBkZmU5MTk3NWYxNGMifQ%3D%3D
-
-#EXTINF: -1, NOVELA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f806=0&deviceDviceDviceD
-
-#EXTINF: -1, GOL TV
-https://6ra8tpg8m6.azcdn107.net:8443/hls/jtzfksihm2f.m3u8?s=9ek6azhuyc1AoHrh_q-WbQ&e=1624767083
-
-#EXTINF: -1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=dgfUyM9ixeoNsG7piVa_AQ&e=1624766961
-
-#EXTINF: -1, STAR CHANNEL
-https://6ra8tpg8m6.azcdn107.net:8443/hls/t9arlll7t.m3u8?s=GhPxZMLPfe1JnlB_cZsjGg&e=1624767027
-
-
-#EXTINF: -1, TNT
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=F6F7KhxzGWgjwcah4bHQqg&e=1624767228
-
-#EXTINF: -1, SPACE
-https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=klMr_yrk6f5HYnVDQaHKhw&e=1624767343
-
-#EXTINF: -1, DIRECTV SPORTS
-https://6ra8tpg8m6.azcdn107.net:8443/hls/utp9qmmg.m3u8?s=pg78drF2fineSDiOHEK1Xg&e=1624767271
-
-#EXTINF: -1, H&H
-https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=qWXRy_MiY20068q6luy3Vw&e=1624767172
+#EXTINF: -1 HBO PLUS
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
