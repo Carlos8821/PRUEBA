@@ -16,24 +16,24 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=bI47zVD35Xtz2pk0jlZwgA&e=1624937442
 
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg", BOOMERANG
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_14_3_.m3u8
+#EXTINF:-1, RTS
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDA3MjQ5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImQzOGMwZDYyNWQyNGIzMzc3NDQxOWNkZjU1MTVjYWZmODQzY2JjOWUifQ%3D%3D
 
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", CARTOON NETWORK
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
+#EXTINF:-1, TELEAMAZONA
+rg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_20_3_.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://4.bp.blogspot.com/-vHlNky5gHpc/VlY8Ovb1JUI/AAAAAAAASdM/pihtgCbLk5I/s1600/Teleamazonas%2Ben%2Bvivo.jpg", DISCOVERY KIDS
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_41_3_.m3u8
+#EXTINF:-1, TC
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1800.m3u8?aid=5fb66f3f792ddf08270744a4&uid=SyBVhgbDxhcDKkU4QvkcfNdikwY66mty&sid=0jKatNIQSbhjmrVKDXsF38TQTIPSb2Vj&pid=3KaioZLCqXqS1qsJBgPLTdOhvYmE5CPy&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-az1.cdn.mdstrm.com&ote=1625007341293&ot=xd4HLCYCTea4rXuwDqMxDA&proto=https&pz=us
 
-#EXTINF:-1 tvg-name="NICKS" , NICK
+#EXTINF:-1, ECUAVISA
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_117_3_.m3u8
 
-#EXTINF:-1 tvg-name="STAR CINEMA" tvg-logo="https://i.ytimg.com/vi/vvWyl2LfqcA/maxresdefault.jpg", STAR CINEMA
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_62_3_.m3u8
+#EXTINF:-1, TNT
+https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=B7ONdagI3tj1FE3Ws3eJXA&e=1624942762
 
-#EXTINF:-1 tvg-name="STAR SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/1200px-Star_Series_2021.png", STAR SERIE
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_69_3_.m3u8
+#EXTINF:-1,SPACE
+https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=ST95kIVS3BkvVyf5qk4bWA&e=1624942398
 
-#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.rosario3.com/__export/1612475305565/sites/rosario3/img/2021/02/04/fox-stardfdf.jpg_1756841869.jpg", STAR CHANNEL
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_59_3_.m3u8
+#EXTINF:-1, H&H
+https://6ra8tpg8m6.azcdn107.net:8443/hls/z5nzb1ez13xv.m3u8?s=IJ_0GWJxu4gni60H6rn-JA&e=1624942875
 
