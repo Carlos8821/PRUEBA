@@ -1,32 +1,32 @@
 
-# EXTM3U
+#EXTM3U
  
-#EXTINF:-1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=OH-Ne_JylXzCMwaIpWAs7g&e=1625364694
+#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="01 | TELEAMAZONAS" tvg-logo="https://appnew.megainfoapp.com/files/1/teleamazonas.png" group-title="ECUADOR ",06 | TELEAMAZONAS
+https://playback.akamaized.net/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media/1359588_4428723_lsi9ff2kibm02t61tuy_1@2756000p.m3u8?dw=80&ts=1625364000&hdnts=exp=1625538689~acl=/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media*~hmac=aca2edbe6437c04992cac4702ccc4e712ab35fa114b5c6e225956663e7d059d6
 
-#EXTINF:-1, HBO 2
-https://6ra8tpg8m6.azcdn107.net:8443/hls/x5r58d0omlmqph.m3u8?s=XbtSp6fex37__Hk4mtirGA&e=1625364871
+#EXTINF:-1 tvg-id="I180.15450.tvguide.com" tvg-name="02 | TELEAMAZONAS" tvg-logo="https://i.pinimg.com/474x/54/b7/8e/54b78e0f223cc8f344e54451bc94f194.jpg" group-title="ECUADOR ",06 | TELEAMAZONAS
+https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
-#EXTINF:-1, HBO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lbqtn3.m3u8?s=-09XEMck7PEPyRnC4G21ZQ&e=1625364807
+#EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="01 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
+https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
-#EXTINF:-1, HBO PLUS
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
+#EXTINF:-1 tvg-id="I182.3740.tvguide.com" tvg-name="02 | ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="ECUADOR ",01 | ECUAVISA
+http://e10.telerium.uno:2052/free10/371/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgMjo1ODozNCBQTSZoYXNoX3ZhbHVlPWthSnY1UFErdldaWGdOQ1JVeG93ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 tvg-id="I185.42728.tvguide.com" tvg-name="04 | RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",04 | RTS HD
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUyOTU5LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImNhZDJhMDc0NDM0YjViYmVmZDMyZDY0YzUyY2I2OWFlYjg2NzNhNTcifQ%3D%3D
+
+#EXTINF:-1 tvg-id="I181.23914.tvguide.com" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",08 | TC TELEVISION HD
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+
+#EXTINF:-1 tvg-name="TVC" , TVC
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUzNDE2LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImY4ZTVmNDI2ZTRiZGFmNzRiYmEyOGY5MDgyNjllZjY0MzFmODliYjMifQ%3D%3D
 
 #EXTINF:-1, FOX
 https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=_w0PkrT0Y_KN_sKwyjvVBA&e=1625365070
 
-#EXTINF:-1, RTS
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDI5OTcwLCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImE5YTRlN2U3NWY1MDg3NGViMmEwZjIwOTliZTgxYTI5OTdlYmRkNTYifQ%3D%3D
-
-#EXTINF:-1, TELEAMAZONA
-https://playback.akamaized.net/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media/1359588_4428723_lsi9ff2kibm02t61tuy_1@2756000p.m3u8?dw=14400&ts=1625342400&hdnts=exp=1625516464~acl=/streams/1359588_4428723_lsi9ff2kibm02t61tuy_1/media*~hmac=a8f82b55b21617b8c6bd33309970732a0c14a7f56bd8408fd74ae0be553602a9
-
-#EXTINF:-1, TC
-https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1800.m3u8?aid=5fb66f3f792ddf08270744a4&uid=SyBVhgbDxhcDKkU4QvkcfNdikwY66mty&sid=8lDB2VqaKfh9YaWEW3PJnmDomZgp45xn&pid=Ygff01wQKfk7vPtHz65njAV6INSADaTt&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-az1.cdn.mdstrm.com&ote=1625430172864&ot=0bz9Q4hTWicS5w7rJTZbAA&proto=https&pz=us
-
-#EXTINF:-1, ECUAVISA
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_117_3_.m3u8
+#EXTINF:-1, CARTOON NETWORK
+https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=OH-Ne_JylXzCMwaIpWAs7g&e=1625364694
 
 #EXTINF:-1, TNT
 https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=xV1cUW4Tu1hld-Zsz_BkFw&e=1625364997
@@ -36,4 +36,13 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=qMq9ZyFniQz6IH7L1_Bnww
 
 #EXTINF:-1, H&H
 https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=YSulwULuWaHDuus5e93qIw&e=1625364576
+
+#EXTINF:-1, HBO 2
+https://6ra8tpg8m6.azcdn107.net:8443/hls/x5r58d0omlmqph.m3u8?s=XbtSp6fex37__Hk4mtirGA&e=1625364871
+
+#EXTINF:-1, HBO
+https://6ra8tpg8m6.azcdn107.net:8443/hls/lbqtn3.m3u8?s=-09XEMck7PEPyRnC4G21ZQ&e=1625364807
+
+#EXTINF:-1, HBO PLUS
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
 
