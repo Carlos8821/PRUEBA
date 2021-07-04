@@ -23,26 +23,42 @@ https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1NDUzNDE2LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6ImY4ZTVmNDI2ZTRiZGFmNzRiYmEyOGY5MDgyNjllZjY0MzFmODliYjMifQ%3D%3D
 
 #EXTINF:-1, FOX
-https://6ra8tpg8m6.azcdn107.net:8443/hls/0e733j.m3u8?s=_w0PkrT0Y_KN_sKwyjvVBA&e=1625365070
+http://e10.telerium.uno:2052/free10/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDowODo0NSBQTSZoYXNoX3ZhbHVlPWpBR1YwK3h4NURUVEFRS0QzNGtmc0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, NICK
+http://e10.telerium.uno:2052/free10/144/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDozNjoyNiBQTSZoYXNoX3ZhbHVlPU5IY0FMM1VuUEtnSjhHS1JVV3hQcHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, CARTOON NETWORK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/1feji.m3u8?s=OH-Ne_JylXzCMwaIpWAs7g&e=1625364694
+http://e10.telerium.uno:2052/free10/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDo1Nzo0MCBQTSZoYXNoX3ZhbHVlPVBnZFVPRVdMRmlYUU1mY1VLbGd1a1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, TNT
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lqo9fv.m3u8?s=xV1cUW4Tu1hld-Zsz_BkFw&e=1625364997
+http://e10.telerium.uno:2052/free10/098/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDoxMzozMCBQTSZoYXNoX3ZhbHVlPThPVS9XZ1lDblZaclRhYnhOZDZQNmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
-#EXTINF:-1,SPACE
-https://6ra8tpg8m6.azcdn107.net:8443/hls/vdjqriuj6.m3u8?s=qMq9ZyFniQz6IH7L1_Bnww&e=1625364789
+#EXTINF:-1, SPACE
+http://e10.telerium.uno:2052/free10/095/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDoxOTozMSBQTSZoYXNoX3ZhbHVlPTZHM25DME9pRDArbHVUT0lmbU00cVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, DISCOVERY
+http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDoyNjo1NCBQTSZoYXNoX3ZhbHVlPUx0Smd6aDREdEsvVzZIa3ViMlBNS0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, H&H
-https://6ra8tpg8m6.azcdn107.net:8443/hls/adtxiz8zv.m3u8?s=YSulwULuWaHDuus5e93qIw&e=1625364576
+http://e10.telerium.uno:2052/free10/016/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDoyNToxOSBQTSZoYXNoX3ZhbHVlPWxja1JOZkpwdTBsUUlHVjEwbHpRUFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
-#EXTINF:-1, HBO 2
-https://6ra8tpg8m6.azcdn107.net:8443/hls/x5r58d0omlmqph.m3u8?s=XbtSp6fex37__Hk4mtirGA&e=1625364871
+#EXTINF:-1, ID
+http://e10.telerium.uno:2052/free10/037/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDoyOTozMyBQTSZoYXNoX3ZhbHVlPXFWQTV0Nk9ya21GOGl1R2Z3OXZaakE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, TELEMUNDO
+http://e10.telerium.uno:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNDowNDoyOSBQTSZoYXNoX3ZhbHVlPVdlQ3NteGtNS1cyaXphQkNKMHRWN2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, HBO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/lbqtn3.m3u8?s=-09XEMck7PEPyRnC4G21ZQ&e=1625364807
+http://e10.telerium.uno:2052/free10/087/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNTowMDowNiBQTSZoYXNoX3ZhbHVlPXI2cm1XYUpzRTZBUDIrL0ZCc2NxUmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, HBO 2
+http://e10.telerium.uno:2052/free10/091/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNToyODo0MCBQTSZoYXNoX3ZhbHVlPWF5em1paUQ5Mmo5ZzJHb0thN21Ranc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, HBO family
+http://e10.telerium.uno:2052/free10/088/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNTozMDowNCBQTSZoYXNoX3ZhbHVlPWcxNStiVzgzaGt0bWNiN1dGVWFzZ2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, HBO PLUS
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/m_93_3_.m3u8
+
+http://e10.telerium.uno:2052/free10/089/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjEgNTozMjo0NyBQTSZoYXNoX3ZhbHVlPWFTUk1wLzZoUHY1c1hCaXZzUVg0Nnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
